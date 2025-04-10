@@ -1,0 +1,2 @@
+2025-04-10 12:00:00 INFO User login: user_id=123
+2025-04-10 12:01:15 ERROR Failed to load profile: user_id=456

@@ -1,0 +1,13 @@
+# Binaries
+logparser
+*.exe
+*.out
+
+# Go build files
+bin/
+build/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp

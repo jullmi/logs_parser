@@ -1,5 +1,5 @@
 
-# logы_parser
+# logs_parser
 
 A simple CLI tool to filter logs by date and level, built with Go and Cobra.
 
